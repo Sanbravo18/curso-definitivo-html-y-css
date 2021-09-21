@@ -1,6 +1,6 @@
 .main-nav {
   margin-top: 10px;
-  list-style: none;
+  list-style: none; /* eliminar puntos de lista */
   padding-left: 0;
   background-color: #13a4a4;
 }
